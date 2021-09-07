@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 Here's a walkthrough of implemented user stories:
 If you'd like to run the app yourself, make sure to select your virtual device as Nexus 9 Android API 24, as that was the device I developed for.
 
-<img src='FlixstertDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='FlixsterDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
