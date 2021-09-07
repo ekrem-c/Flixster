@@ -31,7 +31,7 @@ If you'd like to run the app yourself, make sure to select your virtual device a
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
-Describe any challenges encountered while building the app.
+In the tutorial, the instructor created an "Android Resource Directory" to make the app appealing in landscape mode, but that option didn't show up for me initially. If I remember correctly, changing the view to "Project" from "Android" fixed it for me.
 
 ### Open-source libraries used
 
